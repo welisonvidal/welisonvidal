@@ -40,4 +40,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=7395df&size=35&center=true&v
 
 </div>
 
+  <div align="center">
+
+<br><p align="centre"><b>Visitantes</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{welisonvidal}/count.svg" /></p> 
+
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7395df&height=120&section=footer"/>
