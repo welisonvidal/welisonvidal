@@ -5,8 +5,14 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=7395df&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Welison+Vidal;Tenho+22+Anos;Sou+de+Ji-Paraná,Rondônia;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welisonvidal&theme=blueberry&show_icons=true)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welisonvidal&layout=compact&hide_border=true&title_color=7395df&text_color=7395df&bg_color=232937" />
+<div align="center">  
+  <img width="49%" height="195px"
+  src="https://github-readme-stats.vercel.app/api?username=welisonvidal&show_icons=true&count_private=true&hide_border=true&title_color=7395df&icon_color=7395df&text_color=c9d1d9&bg_color=232937"
+  alt="Welison Vidal de Souza github stats" /> 
+  <img width="41%" height="195px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=welisonvidal&layout=compact&hide_border=true&title_color=7395df&text_color=7395df&bg_color=232937"
+  />
+</div>
 
 
 
