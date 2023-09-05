@@ -14,10 +14,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=7395df&size=35&center=true&v
   />
 </div>
 
-
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=welisonvidal&theme=material-palenight)
-
 <h2>Skills</h2>
 <div style="display: inline_block"><br>
 
